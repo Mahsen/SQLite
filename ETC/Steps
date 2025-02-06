@@ -1,0 +1,10 @@
+On Ubuntu :
+sudo apt update
+sudo apt install sqlite3 libsqlite3-dev
+
+
+On OpenWrt (Embedded) :
+opkg update
+opkg install sqlite3
+
+
